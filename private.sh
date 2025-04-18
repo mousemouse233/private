@@ -9,3 +9,4 @@ export GITHUB_TOKEN="github_pat_11BGHAVZI06X30Sn4ZF1xq_phnyBFdR9PVIlBVXSRGYMRAfu
 git clone https://$GITHUB_TOKEN@github.com/lisi-123/private.git
 
 sudo chmod +x /root/private/setup.sh && sudo /root/private/setup.sh
+
