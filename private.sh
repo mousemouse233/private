@@ -4,7 +4,7 @@ apt-get update
 
 sudo apt install git -y
 
-export GITHUB_TOKEN="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"
+export GITHUB_TOKEN="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"
 
 # 设置 Git 凭证助手
 git config --global credential.helper store
