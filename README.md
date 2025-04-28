@@ -2,9 +2,7 @@
 
 
 ```bash
-apt-get update
-apt install sudo -y
-apt install git -y
+apt-get update && apt install sudo -y && apt install git -y
 
 ```
 
